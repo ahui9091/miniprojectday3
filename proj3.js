@@ -9,3 +9,7 @@ function draw() {
   fill(200);
   circle(mouseX, mouseY, 20)
 }
+
+function mousePressed() {
+  background(0);
+}
